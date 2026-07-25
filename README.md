@@ -5,4 +5,4 @@ git status # ( This command use to check status and changes we have to in which 
 git commit -m "Statement to indicate what changes we have done "
 git remote add origin Repo's URl # ( repo link on which we wants to push the code )
 git branch -M main/Master # ( Selection of branch here )
-git push origin main # ( Last commands to push code on selected branch
+git push origin main # ( Last commands to push code on selected branch )
